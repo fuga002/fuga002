@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://berdiev.net/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=38BDF8&multiline=true&width=750&height=180&lines=const+engineer+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++role%3A+'Senior+.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Distributed+Architecture'%5D%2C%0A++skills%3A+%5B'.NET+8'%2C+'C%23'%2C+'PostgreSQL'%2C+'RabbitMQ'%2C+'Docker'%2C+'Redis'%5D%2C%0A++hireable%3A+true%0A%7D%3B" alt="Code Profile" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=1000&pause=500&color=38BDF8&multiline=true&width=800&height=250&lines=const+engineer+%3D+%7B;%20%20name%3A+'Maruf+Berdiyev'%2C;%20%20role%3A+'Senior+.NET+Backend+Engineer'%2C;%20%20skills%3A+%5B'.NET+8'%2C+'C%23'%2C+'PostgreSQL'%2C+'Docker'%5D%2C;%20%20architecture%3A+%5B'Microservices'%2C+'Clean+Arch'%5D%2C;%20%20hireable%3A+true;%7D%3B" alt="Code Profile" />
   </a>
 </div>
 
