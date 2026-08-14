@@ -1,43 +1,60 @@
-# Hi there, I'm Maruf Berdiyev 👋
+<div align="center">
 
-### 💻 Senior .NET / Backend Developer
+  <!-- Header Banner / Typing SVG -->
+  <h1>Hi, I'm Maruf Berdiyev 👋</h1>
+  <p>
+    <a href="https://berdiev.net/">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=.NET+Backend+%26+Distributed+Systems;High-Load+Architect+%7C+Microservices;PostgreSQL+Optimization+Expert;Explore+my+portfolio+at+berdiev.net!" alt="Typing SVG" />
+    </a>
+  </p>
 
-I am a .NET Developer with 3+ years of experience in designing and building high-performance backend systems, microservices, and high-concurrency solutions. Focused on clean architecture, domain-driven design, and scalable infrastructure.
+  <!-- Social & Portfolio Badges -->
+  <p>
+    <a href="https://berdiev.net/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-berdiev.net-9333EA?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://t.me/fuga_02" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/maruf-berdiev-6b837a265/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
----
+  <!-- Visitor Views & Followers -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=fuga002&color=a855f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/fuga002?style=flat-square&color=a855f7" alt="GitHub Followers" />
+  </p>
 
-### 🛠 Tech Stack & Tools
-
-**Languages & Frameworks:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-**Databases & Data Access:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge)
-
-**DevOps, Monitoring & Tools:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🌐 Connect & Portfolio
-
-* 🌐 **Portfolio:** [berdiev.net](https://berdiev.net)
-* 💼 **LinkedIn:** [linkedin.com/in/maruf-berdiev-6b837a265](https://www.linkedin.com/in/maruf-berdiev-6b837a265/)
-* 📧 **Email:** [maruf.backend.dev@gmail.com](mailto:maruf.backend.dev@gmail.com)
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### ⚡ Dynamic Code Profile
+
+<div align="center">
+  <a href="https://berdiev.net/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=38BDF8&multiline=true&width=750&height=180&lines=const+engineer+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++role%3A+'Senior+.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Distributed+Architecture'%5D%2C%0A++skills%3A+%5B'.NET+8'%2C+'C%23'%2C+'PostgreSQL'%2C+'RabbitMQ'%2C+'Docker'%2C+'Redis'%5D%2C%0A++hireable%3A+true%0A%7D%3B" alt="Code Profile" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Maruf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,docker,kubernetes,rabbitmq,redis,nginx,linux,git,postman,bash&perline=6&theme=dark" alt="My Tech Stack" />
+  </a>
 </p>
+
+---
+
+### 🚀 Featured Highlights & Key Achievements
+
+```javascript
+⚡ High-Load Systems    :: Architected scalable platforms and optimized backend performance.
+🏛️ Enterprise Solutions :: Core Backend Infrastructure, ERP Systems & High-Concurrency APIs.
+🛠️ Tech Stack Focus     :: .NET 8, PostgreSQL, Docker, Redis, RabbitMQ & Microservices.
+🎓 Education            :: Graduate Student @ Gachon University (South Korea).
