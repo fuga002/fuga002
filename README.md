@@ -1,56 +1,60 @@
-<h1 align="center">Hi there, I'm Maruf Berdiyev 👋</h1>
+<div align="center">
+
+  <!-- Header Banner / Typing SVG -->
+  <h1>Hi, I'm Maruf Berdiyev 👋</h1>
+  <p>
+    <a href="https://berdiev.net/">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=.NET+Backend+%26+Distributed+Systems;High-Load+Architect+%7C+Microservices;PostgreSQL+Optimization+Expert;Explore+my+portfolio+at+berdiev.net!" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Social & Portfolio Badges -->
+  <p>
+    <a href="https://berdiev.net/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-berdiev.net-9333EA?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://t.me/fuga_02" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/maruf-berdiev-6b837a265/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <!-- Visitor Views & Followers -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=fuga002&color=a855f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/fuga002?style=flat-square&color=a855f7" alt="GitHub Followers" />
+  </p>
+
+</div>
+
+---
+
+### ⚡ Dynamic Code Profile
+
+<div align="center">
+  <a href="https://berdiev.net/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=38BDF8&multiline=true&width=750&height=180&lines=const+engineer+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++role%3A+'Senior+.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Distributed+Architecture'%5D%2C%0A++skills%3A+%5B'.NET+8'%2C+'C%23'%2C+'PostgreSQL'%2C+'RabbitMQ'%2C+'Docker'%2C+'Redis'%5D%2C%0A++hireable%3A+true%0A%7D%3B" alt="Code Profile" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=24&duration=4000&pause=1000&color=BCB1F7&center=true&vCenter=true&width=500&lines=Professional+.NET+Backend+Engineer;High-Load+%26+Microservices+Architect;Welcome+to+my+GitHub+profile!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=24&duration=4000&pause=1000&color=BCB1F7&center=true&vCenter=true&width=500&lines=Professional+.NET+Backend+Engineer;High-Load+%26+Microservices+Architect;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,docker,kubernetes,rabbitmq,redis,nginx,linux,git,postman,bash&perline=6&theme=dark" alt="My Tech Stack" />
   </a>
-</p>
-
-<!-- Portfolio Link & Quick Contact Badges -->
-<p align="center">
-  <a href="https://berdiev.net/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-berdiev.net-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfolio Site" />
-  </a>
-  <a href="https://t.me/fuga_02" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/maruf-berdiev-6b837a265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fuga002&color=8A2BE2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fuga002?style=flat-square&color=8A2BE2" alt="GitHub Followers" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Featured Highlights & Projects
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Who I Am</h3>
-      <p>
-        I am a <b>.NET Backend Engineer</b> focused on building secure, scalable, and high-performance backend systems. 
-      </p>
-      <ul>
-        <li>⚡ <b>Specialized in:</b> ASP.NET Core, PostgreSQL optimization & Microservices.</li>
-        <li>🌐 <b>Impact:</b> Architected platforms serving 2M+ users.</li>
-        <li>📍 <b>Current Location:</b> Incheon / Seoul, South Korea.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3>🎯 Tech Highlights</h3>
-      <p>
-        <code>C#</code> • <code>.NET 8</code> • <code>ASP.NET Core</code><br/>
-        <code>PostgreSQL</code> • <code>Redis</code> • <code>RabbitMQ</code><br/>
-        <code>Docker</code> • <code>Kubernetes</code> • <code>MinIO</code>
-      </p>
-      <a href="[https://berdiev.net/](https://berdiev.net/)">
-        <img src="[https://img.shields.io/badge/Explore_Portfolio-berdiev.net-8A2BE2?style=for-the-badge&logo=rocket](https://img.shields.io/badge/Explore_Portfolio-berdiev.net-8A2BE2?style=for-the-badge&logo=rocket)" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+```javascript
+⚡ High-Load Systems   :: Architected platforms serving 2M+ active users.
+⚽ Ministry of Sports  :: Core Backend Infrastructure & Microservices.
+📚 Edu-Algoritm ERP    :: Integrated .NET 8, PostgreSQL, Docker, Redis & MinIO.
+🎓 Education           :: MSc Computer Software Engineering @ Gachon Univ (KR).
