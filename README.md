@@ -32,10 +32,34 @@
 ---
 
 ### ⚡ Dynamic Code Profile
+---
 
-<div align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?title=maruf_berdiyev.js&theme=synthwave&cmd=cat%20profile.js&output=const%20engineer%20%3D%20%7B%0A%20%20name%3A%20'Maruf%20Berdiyev'%2C%0A%20%20role%3A%20'Senior%20.NET%20Backend%20Engineer'%2C%0A%20%20stack%3A%20%5B'.NET%208'%2C%20'C%23'%2C%20'PostgreSQL'%2C%20'Docker'%5D%2C%0A%20%20architecture%3A%20%5B'Microservices'%2C%20'Clean%20Arch'%5D%2C%0A%20%20hireable%3A%20true%0A%7D%3B" width="100%" alt="Terminal Profile" />
-</div>
+### 💼 3-VARIANT: Mini Dashboard / Rezyume Kartochkasi
+
+Oddiy matnlardan qochib, profilni **piktogrammalar (badge) va clean layout** bilan boyitilgan zamonaviy rezyume uslubi:
+
+```markdown
+### ⚡ Overview
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>👨‍💻 About Me</h4>
+      <p><b>.NET Backend Engineer</b> focused on high-load systems, performance optimization, and scalable microservices.</p>
+      <p>📍 <b>Based in:</b> South Korea</p>
+      <p>⚽ <b>Core Impact:</b> Served 2M+ active users platforms</p>
+    </td>
+    <td width="50%">
+      <h4>🎯 Core Competencies</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Language-C%23%20%2F%20.NET%208-8A2BE2?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Database-PostgreSQL%20%2F%20Redis-00758F?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/DevOps-Docker%20%2F%20Kubernetes-2496ED?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Message%20Broker-RabbitMQ-FF6600?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
