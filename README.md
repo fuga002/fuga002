@@ -31,7 +31,6 @@
 
 ---
 
-### ⚡ Dynamic Code Profile
 ---
 
 ### 💼 3-VARIANT: Mini Dashboard / Rezyume Kartochkasi
