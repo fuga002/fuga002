@@ -28,18 +28,12 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const coder = {
-  name: 'Maruf Berdiyev',
-  role: 'Professional .NET Backend Engineer',
-  skills: [
-    '.NET 8 / C#', 'ASP.NET Core', 'PostgreSQL Optimization',
-    'RabbitMQ', 'Docker & Kubernetes', 'Clean Architecture', 'Redis & MinIO'
-  ],
-  hardWorker: true,
-  quickLearner: true,
-  problemSolver: true,
-  hireable: function() {
-    return this.hardWorker && this.problemSolver && this.skills.length >= 5;
-  }
-};
+<p align="center">
+  <a href="[https://berdiev.net/](https://berdiev.net/)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5D4&center=false&vCenter=true&width=600&height=180&lines=const+coder+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++title%3A+'.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Microservices'%5D%2C%0A++database%3A+%5B'PostgreSQL'%2C+'Redis'%2C+'Optimization'%5D%2C%0A++architecture%3A+%5B'Clean+Architecture'%2C+'DDD'%5D%2C%0A++hireable%3A+true%0A%7D%3B](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5D4&center=false&vCenter=true&width=600&height=180&lines=const+coder+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++title%3A+'.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Microservices'%5D%2C%0A++database%3A+%5B'PostgreSQL'%2C+'Redis'%2C+'Optimization'%5D%2C%0A++architecture%3A+%5B'Clean+Architecture'%2C+'DDD'%5D%2C%0A++hireable%3A+true%0A%7D%3B)" alt="Maruf Berdiyev Code Object" />
+  </a>
+</p>
+
+<blockquote align="center">
+  ⚡ <b>.NET Backend Engineer</b> with experience in architecting high-load systems, optimizing large-scale platforms, and building production-ready microservices.
+</blockquote>
