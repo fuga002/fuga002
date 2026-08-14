@@ -34,9 +34,7 @@
 ### ⚡ Dynamic Code Profile
 
 <div align="center">
-  <a href="https://berdiev.net/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=38BDF8&multiline=true&width=800&height=220&lines=const+engineer+%3D+%7B;++name%3A+'Maruf+Berdiyev'%2C;++role%3A+'Senior+.NET+Backend+Engineer'%2C;++skills%3A+%5B'.NET+8'%2C+'C%23'%2C+'PostgreSQL'%2C+'Docker'%5D%2C;++architecture%3A+%5B'Microservices'%2C+'Clean+Arch'%5D%2C;++hireable%3A+true;%7D%3B" alt="Code Profile" />
-  </a>
+  <img src="https://github-readme-terminal.vercel.app/api?title=maruf_berdiyev.js&theme=synthwave&cmd=cat%20profile.js&output=const%20engineer%20%3D%20%7B%0A%20%20name%3A%20'Maruf%20Berdiyev'%2C%0A%20%20role%3A%20'Senior%20.NET%20Backend%20Engineer'%2C%0A%20%20stack%3A%20%5B'.NET%208'%2C%20'C%23'%2C%20'PostgreSQL'%2C%20'Docker'%5D%2C%0A%20%20architecture%3A%20%5B'Microservices'%2C%20'Clean%20Arch'%5D%2C%0A%20%20hireable%3A%20true%0A%7D%3B" width="100%" alt="Terminal Profile" />
 </div>
 
 ---
