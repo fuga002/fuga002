@@ -28,12 +28,29 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <a href="[https://berdiev.net/](https://berdiev.net/)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5D4&center=false&vCenter=true&width=600&height=180&lines=const+coder+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++title%3A+'.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Microservices'%5D%2C%0A++database%3A+%5B'PostgreSQL'%2C+'Redis'%2C+'Optimization'%5D%2C%0A++architecture%3A+%5B'Clean+Architecture'%2C+'DDD'%5D%2C%0A++hireable%3A+true%0A%7D%3B](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F5D4&center=false&vCenter=true&width=600&height=180&lines=const+coder+%3D+%7B%0A++name%3A+'Maruf+Berdiyev'%2C%0A++title%3A+'.NET+Backend+Engineer'%2C%0A++focus%3A+%5B'High-Load+Systems'%2C+'Microservices'%5D%2C%0A++database%3A+%5B'PostgreSQL'%2C+'Redis'%2C+'Optimization'%5D%2C%0A++architecture%3A+%5B'Clean+Architecture'%2C+'DDD'%5D%2C%0A++hireable%3A+true%0A%7D%3B)" alt="Maruf Berdiyev Code Object" />
-  </a>
-</p>
-
-<blockquote align="center">
-  ⚡ <b>.NET Backend Engineer</b> with experience in architecting high-load systems, optimizing large-scale platforms, and building production-ready microservices.
-</blockquote>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Who I Am</h3>
+      <p>
+        I am a <b>.NET Backend Engineer</b> focused on building secure, scalable, and high-performance backend systems. 
+      </p>
+      <ul>
+        <li>⚡ <b>Specialized in:</b> ASP.NET Core, PostgreSQL optimization & Microservices.</li>
+        <li>🌐 <b>Impact:</b> Architected platforms serving 2M+ users.</li>
+        <li>📍 <b>Current Location:</b> Incheon / Seoul, South Korea.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🎯 Tech Highlights</h3>
+      <p>
+        <code>C#</code> • <code>.NET 8</code> • <code>ASP.NET Core</code><br/>
+        <code>PostgreSQL</code> • <code>Redis</code> • <code>RabbitMQ</code><br/>
+        <code>Docker</code> • <code>Kubernetes</code> • <code>MinIO</code>
+      </p>
+      <a href="[https://berdiev.net/](https://berdiev.net/)">
+        <img src="[https://img.shields.io/badge/Explore_Portfolio-berdiev.net-8A2BE2?style=for-the-badge&logo=rocket](https://img.shields.io/badge/Explore_Portfolio-berdiev.net-8A2BE2?style=for-the-badge&logo=rocket)" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
