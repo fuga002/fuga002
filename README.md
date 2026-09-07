@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/maruf-cyber-dashboard.gif" width="100%" alt="Maruf Berdiev — animated cyber profile dashboard" />
+  <img src="./assets/maruf-cyber-dashboard.gif?v=3" width="100%" alt="Maruf Berdiev — animated cyber profile dashboard" />
 </div>
 
 <div align="center">
