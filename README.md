@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/maruf-cyber-dashboard.gif?v=3" width="100%" alt="Maruf Berdiev — animated cyber profile dashboard" />
+  <img src="./assets/header.svg" width="100%" alt="Maruf Berdiev — Full-stack .NET Developer" />
 </div>
 
 <div align="center">
@@ -10,12 +10,25 @@
 
 <br />
 
-```text
-> whoami
-Maruf Berdiev — Full-stack .NET engineer in Tashkent, Uzbekistan.
-I build reliable backend systems, full-stack products and automated delivery pipelines.
-Currently working at the Ministry of Sports of Uzbekistan.
-```
+<table>
+  <tr>
+    <td width="54%" valign="top">
+      <h3><code>SYSTEM.INFO</code></h3>
+      <pre><code>name       = "Maruf Berdiev"
+role       = "Full-stack .NET Engineer"
+company    = "Ministry of Sports of Uzbekistan"
+location   = "Tashkent, Uzbekistan"
+focus      = ["Backend systems",
+              "Product engineering"]
+currently  = "Building reliable services"
+principle  = "Simple outside. Deep inside."</code></pre>
+      <p>Production-minded engineer working across backend architecture, full-stack products and automated delivery.</p>
+    </td>
+    <td width="46%" valign="top" align="center">
+      <img src="./assets/maruf-particle-flow.gif?v=1" width="100%" alt="Maruf Berdiev formed by a cinematic particle flow" />
+    </td>
+  </tr>
+</table>
 
 ## `TECH.STACK`
 
